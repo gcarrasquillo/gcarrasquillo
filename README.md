@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gcarrasquillo
 - 👀 I’m interested in Automation, Cloud Computing, Disaster Recovery and Cybersecurity
 - 🌱 I’m currently learning AWS, GCP and Azure infrastructure and development applications
-- 💞️ I’m looking to collaborate on breakthrough projects
+- 💞️ I’m looking to collaborate on breakthrough projects, technology and innovation
 - 📫 Reach me at gcarrasquilloprado@gmail.com
 
 <!---
